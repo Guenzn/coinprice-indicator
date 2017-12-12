@@ -1,0 +1,16 @@
+-
+  exchange: bitstamp
+  asset_pair: XXBTZEUR
+  refresh: 10
+
+-
+  exchange: bitstamp
+  asset_pair: XXBCZEUR
+  refresh: 10
+
+-
+  exchange: bitstamp
+  asset_pair: XXLTZEUR
+  refresh: 10
+
+
